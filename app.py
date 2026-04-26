@@ -4,10 +4,10 @@ from logic_utils import check_guess, get_range_for_difficulty, parse_guess, upda
 from ai_player import AIPlayer
 
 
-st.set_page_config(page_title="Glitchy Guesser", page_icon="🎮")
+st.set_page_config(page_title="The Impossible Guesser 2.0", page_icon="🎮")
 
-st.title("🎮 Game Glitch Investigator")
-st.caption("An AI-generated guessing game. Something is off.")
+st.title("🎮 The Impossible Guesser 2.0")
+st.caption("An AI-generated guessing game, but upgraded!")
 
 st.sidebar.header("Settings")
 
