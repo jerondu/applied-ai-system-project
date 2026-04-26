@@ -1,4 +1,4 @@
-# 💭 Reflection: Game Glitch Investigator
+# 💭 Reflection: The Impossible Guesser 2.0 
 
 Answer each question in 3 to 5 sentences. Be specific and honest about what actually happened while you worked. This is about your process, not trying to sound perfect.
 
