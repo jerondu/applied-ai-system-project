@@ -1,13 +1,12 @@
-# 🎮 Game Glitch Investigator: The Impossible Guesser
+# The Impossible Guesser 2.0
 
-## 🚨 The Situation
+## 🎮 Original Project - Game Glitch Investigator: The Impossible Guesser 
 
-You asked an AI to build a simple "Number Guessing Game" using Streamlit.
-It wrote the code, ran away, and now the game is unplayable. 
+The original projects goals and capabilities were to create a guessing game system for the user. It provided the user with 3 levels of difficulty that varied in number of guesses and range of guesses, and gave hints for the user to have a chance at winning.
 
-- You can't win.
-- The hints lie to you.
-- The secret number seems to have commitment issues.
+## 🚨 New and Improved Project
+
+This upgrade of the original project is called "The Impossible Guesser 2.0", 
 
 ## 🛠️ Setup
 
