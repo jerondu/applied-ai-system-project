@@ -103,7 +103,8 @@ AI demonstrates superior consistency while humans show adaptability
 
 Building this AI-enhanced guessing game taught me that AI isn't just about complex algorithms—it's about creating systems that can think step by step, just like humans do. The agentic workflow approach that I took on this project, showed me how AI can plan ahead, take action, check results, and learn from mistakes, making technology feel more intelligent and relatable. I discovered that different AI strategies work better for different situations, and that giving AI the ability to adapt makes it more powerful than rigid programming. On the problem-solving side, I learned that breaking big projects into smaller, testable pieces makes development much easier and more reliable. Testing everything thoroughly from the start prevents many struggles later, and modular design means I can improve one part without breaking everything else. Most importantly, I realized that the best AI solutions balance technical sophistication with clear, understandable behavior that helps people learn and engage.
 
-## 📸 Demo
+## 📸 Demo / Short Walkthrough
 
-- [ ] ![alt text](image.png)
+🎬 **[Watch the Video Walkthrough](https://www.loom.com/share/5ed2ee8bf761423cb748361dbe16dc37)** - See the AI agentic workflow in action!
+
 
